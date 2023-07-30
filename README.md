@@ -3,7 +3,7 @@
 
 <div align="center">
   <a href="https://github.com/esteban-bit/sql-data-base-building">
-    <img src= "imagenes/sql.png" alt="Logo" width="1000" height="250">
+    <img src= "./Imagenes/sql.png" alt="Logo" width="1000" height="250">
   </a>
 
   <h3 align="center" style="font-size: 25px">Procesamiento de datos relacional con Python - SQL</h3>
@@ -22,7 +22,7 @@
     <br />
     <br />
       <a href="https://github.com/esteban-bit/sql-data-base-building">
-        <img src="imagenes/palomitas.png" alt="Logo" width="450" height="200">
+        <img src="./Imagenes/palomitas.png" alt="Logo" width="450" height="200">
     </a>
     <br />
     <a >Próxima inauguración VIDEOHACK</a>
