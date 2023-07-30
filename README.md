@@ -2,7 +2,7 @@
 <!-- PROJECT LOGO -->
 
 <div align="center">
-    <img src= "/Users/esteban/Phyton/sql-data-base-building/Data/images/sql.PNG" alt="Logo" width="1000" height="250">
+    <img src= "./Data/images/sql.PNG" alt="Logo" width="1000" height="250">
   </a>
 
   <h3 align="center" style="font-size: 25px">Procesamiento de datos relacional con Python - SQL</h3>
@@ -20,7 +20,7 @@
     <br />
     <br />
       <a>
-        <img src="/Users/esteban/Phyton/sql-data-base-building/Data/images/palomitas.PNG" alt="Logo" width="450" height="200">
+        <img src="./Data/images/palomitas.PNG" alt="Logo" width="450" height="200">
     </a>
     <br />
     <a >Próxima inauguración VIDEOHACK</a>
