@@ -2,7 +2,7 @@
 <!-- PROJECT LOGO -->
 
 <div align="center">
-    <img src= "images/sql.png" alt="Logo" width="1000" height="250">
+    <img src= "imagenes/sql.png" alt="Logo" width="1000" height="250">
   </a>
 
   <h3 align="center" style="font-size: 25px">Procesamiento de datos relacional con Python - SQL</h3>
@@ -20,7 +20,7 @@
     <br />
     <br />
       <a>
-        <img src="images/palomitas.png" alt="Logo" width="450" height="200">
+        <img src="imagenes/palomitas.png" alt="Logo" width="450" height="200">
     </a>
     <br />
     <a >Próxima inauguración VIDEOHACK</a>
