@@ -2,11 +2,13 @@
 <!-- PROJECT LOGO -->
 
 <div align="center">
+  <a href="https://github.com/esteban-bit/sql-data-base-building">
     <img src= "imagenes/sql.png" alt="Logo" width="1000" height="250">
   </a>
 
   <h3 align="center" style="font-size: 25px">Procesamiento de datos relacional con Python - SQL</h3>
     <br />
+
   <p align="center">
     Se analizan los siguientes archivos CSV:
     
@@ -19,7 +21,7 @@
  ``* rental``
     <br />
     <br />
-      <a>
+      <a href="https://github.com/esteban-bit/sql-data-base-building">
         <img src="imagenes/palomitas.png" alt="Logo" width="450" height="200">
     </a>
     <br />
@@ -211,3 +213,28 @@ category.to_csv('category_v1.csv',index= False)
 inventory.to_csv('inventory_v1.csv', index= False)
 old_HDD_v1.to_csv('old_HDD_v1.csv', index= True)
 ```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- MARKDOWN LINKS & IMAGES -->
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-url]: https://www.linkedin.com/in/esteban-cardona-60163685/
