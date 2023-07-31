@@ -214,13 +214,13 @@ inventory.to_csv('inventory_v1.csv', index= False)
 old_HDD_v1.to_csv('old_HDD_v1.csv', index= True)
 ```
 
-# 5 Se crea diagrama EER 
+# 5. Se crea diagrama EER 
 
 <img src="Imagenes/EER.png" alt="Logo" width="1000" height="500">
 
 Se procede a generar relaciones en SLQWorkbench y se importan archivos csv limpiados en Python. 
 
-# 6 Queries
+# 6. Queries
 
 Procedemos a generar queries de analisis.
 
