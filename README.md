@@ -3,7 +3,7 @@
 
 <div align="center">
   <a href="https://github.com/esteban-bit/sql-data-base-building">
-    <img src= "./imagenes/sql.png" alt="Logo" width="1000" height="250">
+    <img src= "Imagenes/sql.png" alt="Logo" width="1000" height="250">
   </a>
 
   <h3 align="center" style="font-size: 25px">Procesamiento de datos relacional con Python - SQL</h3>
@@ -22,7 +22,7 @@
     <br />
     <br />
       <a href="https://github.com/esteban-bit/sql-data-base-building">
-        <img src="./imagenes/palomitas.png" alt="Logo" width="450" height="200">
+        <img src="Imagenes/palomitas.png" alt="Logo" width="450" height="200">
     </a>
     <br />
     <a >Próxima inauguración VIDEOHACK</a>
@@ -226,24 +226,24 @@ Procedemos a generar queries de analisis.
 
 ### Pelicula mas larga en stock
 
-<img src="./imagenes/larga.png" alt="Logo" width="450" height="200">
+<img src="Imagenes/larga.png" alt="Logo" width="450" height="200">
 
 ### Top 3 peliculas en stock con mas actores reconocidos.
 
-<img src="./imagenes/actxpeli.png" alt="Logo" width="450" height="200">
+<img src="Imagenes/actxpeli.png" alt="Logo" width="450" height="200">
 
 
 ### Numero de peliculas por categoria.
 
-<img src="./imagenes/CATEGORIA.png" alt="Logo" width="450" height="200">
+<img src="Imagenes/CATEGORIA.png" alt="Logo" width="450" height="200">
 
 ### Pelicula con el coste de reemplazo mas caro.
 
-<img src="./imagenes/coste.png" alt="Logo" width="450" height="200">
+<img src="Imagenes/coste.png" alt="Logo" width="450" height="200">
 
 ### Top 3 de actores con mas peliculas
 
-<img src="./imagenes/coste.png" alt="Logo" width="450" height="200">
+<img src="Imagenes/coste.png" alt="Logo" width="450" height="200">
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
