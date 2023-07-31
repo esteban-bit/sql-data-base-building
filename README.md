@@ -216,7 +216,7 @@ old_HDD_v1.to_csv('old_HDD_v1.csv', index= True)
 
 # 5 Se crea diagrama EER 
 
-<img src="Imagenes/EER.png" alt="Logo" width="1000" height="300">
+<img src="Imagenes/EER.png" alt="Logo" width="1000" height="500">
 
 Se procede a generar relaciones en SLQWorkbench y se importan archivos csv limpiados en Python. 
 
