@@ -216,7 +216,7 @@ old_HDD_v1.to_csv('old_HDD_v1.csv', index= True)
 
 # 5 Se crea diagrama EER 
 
-<img src="Imagenes/EER.png" alt="Logo" width="450" height="200">
+<img src="Imagenes/EER.png" alt="Logo" width="1000" height="300">
 
 Se procede a generar relaciones en SLQWorkbench y se importan archivos csv limpiados en Python. 
 
@@ -226,24 +226,24 @@ Procedemos a generar queries de analisis.
 
 ### 6.1 Pelicula mas larga en stock
 
-<img src="Imagenes/larga.png" alt="Logo" width="450" height="200">
+<img src="Imagenes/larga.png" alt="Logo" width="500" height="300">
 
 ### 6.2 Top 3 peliculas en stock con mas actores reconocidos.
 
-<img src="Imagenes/actxpeli.png" alt="Logo" width="450" height="200">
+<img src="Imagenes/actxpeli.png" alt="Logo" width="500" height="300">
 
 
 ### 6.3 Numero de peliculas por categoria.
 
-<img src="Imagenes/CATEGORIA.png" alt="Logo" width="450" height="200">
+<img src="Imagenes/CATEGORIA.png" alt="Logo" width="500" height="300">
 
 ### 6.4 Pelicula con el coste de reemplazo mas caro.
 
-<img src="Imagenes/coste.png" alt="Logo" width="450" height="200">
+<img src="Imagenes/coste.png" alt="Logo" width="500" height="300">
 
 ### 6.5 Top 3 de actores con mas peliculas
 
-<img src="Imagenes/coste.png" alt="Logo" width="450" height="200">
+<img src="Imagenes/coste.png" alt="Logo" width="500" height="300">
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
